@@ -1,0 +1,7 @@
+{
+    "name": "challenge/01-two-sum",
+    "description": "PHP Challenge 01-two-sum",
+    "require": {
+        "phpunit/phpunit": "^9"
+    }
+}
