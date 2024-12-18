@@ -27,7 +27,7 @@ echo "Explain your solution here." >> README.md
 echo "<?php" > index.php
 echo "// Challenge $1 Solution" >> index.php
 echo "class Solution {" >> index.php
-echo "  function solve() {" >> index.php
+echo "  public function solve() {" >> index.php
 echo "      // Write your solution here" >> index.php
 echo "  }" >> index.php
 echo "}" >> index.php

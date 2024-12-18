@@ -1,7 +1,7 @@
 <?php
 
 class Solution {
-    function solve(int $x): bool
+    public function solve(int $x): bool
     {
         $x = (string)$x;
         $reversedString = '';

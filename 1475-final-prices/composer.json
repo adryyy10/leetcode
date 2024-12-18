@@ -1,0 +1,7 @@
+{
+    "name": "challenge/1475-final-prices",
+    "description": "PHP Challenge 1475-final-prices",
+    "require": {
+        "phpunit/phpunit": "^9"
+    }
+}
