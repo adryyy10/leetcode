@@ -1,0 +1,7 @@
+{
+    "name": "challenge/13-roman-to-integer",
+    "description": "PHP Challenge 13-roman-to-integer",
+    "require": {
+        "phpunit/phpunit": "^9"
+    }
+}
