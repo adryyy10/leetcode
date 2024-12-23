@@ -1,0 +1,7 @@
+{
+    "name": "challenge/20-valid-parentheses",
+    "description": "PHP Challenge 20-valid-parentheses",
+    "require": {
+        "phpunit/phpunit": "^9"
+    }
+}
