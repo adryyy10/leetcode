@@ -1,0 +1,7 @@
+{
+    "name": "challenge/anagrams",
+    "description": "PHP Challenge anagrams",
+    "require": {
+        "phpunit/phpunit": "^9"
+    }
+}
