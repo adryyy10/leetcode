@@ -1,0 +1,7 @@
+{
+    "name": "challenge/fibonacci",
+    "description": "PHP Challenge fibonacci",
+    "require": {
+        "phpunit/phpunit": "^9"
+    }
+}
