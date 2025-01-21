@@ -1,0 +1,7 @@
+{
+    "name": "challenge/26-remove-duplicates-sorted-array",
+    "description": "PHP Challenge 26-remove-duplicates-sorted-array",
+    "require": {
+        "phpunit/phpunit": "^9"
+    }
+}
