@@ -1,0 +1,7 @@
+{
+    "name": "challenge/27-remove-element",
+    "description": "PHP Challenge 27-remove-element",
+    "require": {
+        "phpunit/phpunit": "^9"
+    }
+}
