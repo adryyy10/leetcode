@@ -1,0 +1,7 @@
+{
+    "name": "challenge/28-find-first-ocurrence-string",
+    "description": "PHP Challenge 28-find-first-ocurrence-string",
+    "require": {
+        "phpunit/phpunit": "^9"
+    }
+}
