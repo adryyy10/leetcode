@@ -1,0 +1,7 @@
+{
+    "name": "challenge/expression-evaluator",
+    "description": "PHP Challenge expression-evaluator",
+    "require": {
+        "phpunit/phpunit": "^9"
+    }
+}
