@@ -1,0 +1,7 @@
+{
+    "name": "challenge/35-search-insert-position",
+    "description": "PHP Challenge 35-search-insert-position",
+    "require": {
+        "phpunit/phpunit": "^9"
+    }
+}
