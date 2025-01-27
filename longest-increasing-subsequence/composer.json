@@ -1,0 +1,7 @@
+{
+    "name": "challenge/longest-increasing-subsequence",
+    "description": "PHP Challenge longest-increasing-subsequence",
+    "require": {
+        "phpunit/phpunit": "^9"
+    }
+}
