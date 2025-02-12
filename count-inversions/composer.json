@@ -1,0 +1,7 @@
+{
+    "name": "challenge/count-inversions",
+    "description": "PHP Challenge count-inversions",
+    "require": {
+        "phpunit/phpunit": "^9"
+    }
+}
