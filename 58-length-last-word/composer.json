@@ -1,0 +1,7 @@
+{
+    "name": "challenge/58-length-last-word",
+    "description": "PHP Challenge 58-length-last-word",
+    "require": {
+        "phpunit/phpunit": "^9"
+    }
+}
