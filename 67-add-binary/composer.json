@@ -1,0 +1,7 @@
+{
+    "name": "challenge/67-add-binary",
+    "description": "PHP Challenge 67-add-binary",
+    "require": {
+        "phpunit/phpunit": "^9"
+    }
+}
